@@ -18,24 +18,27 @@ const About = () => {
             </div>
                 
                 <p className='text-xl mt-20'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Possimus magni dolor maiores minus. Ea vitae qui quam dolores 
-                    sapiente sequi debitis consequatur eos, repudiandae incidunt, 
-                    nihil inventore ad, ab iure quaerat nam! Repellat hic fugit 
-                    eius eos nemo architecto dolore non animi alias. Ipsum, ad 
-                    modi debitis ipsam sequi rem.
+                As a detail-oriented and analytical Accounts Receivables professional with 6 years of experience, 
+                I have developed a strong foundation in data analysis, problem-solving, and project management. 
+                Seeking a transition into a career in software development, I have completed coursework in 
+                programming languages such as React, JavaScript, and Python though the University of Wisconsin-Madison. 
+                I am excited to bring my transferable skills, dedication to accuracy, and passion for learning 
+                into a new role in software development.
+
                 </p>
 
                 <br />
 
                 <p className='text-xl'>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-                    Mollitia tenetur, accusamus minima eligendi dignissimos labore 
-                    enim esse impedit at et ut cupiditate, debitis exercitationem 
-                    iure iste tempore commodi, molestias fugiat. Nisi autem numquam 
-                    repellendus accusantium? Optio quo quisquam alias architecto 
-                    similique eligendi nesciunt. Rerum, fugit a. Corrupti repellat 
-                    quam molestiae.
+                My dream growing up for as long as I can remember was to be an artist. 
+                I love working in all different mediums of art and it turns out programming is a 
+                lot like making art, it’s just another medium to be creative with. 
+                I’m especially drawn to the creativity and problem solving of programming, 
+                how you can create something out of nothing and watch as it all comes together, 
+                how you can style it and make it your own. Writing and executing code for the 
+                first time had this sort of magic to it, watching all the pieces come together 
+                to create something.
+
                 </p>
 
           </div>
